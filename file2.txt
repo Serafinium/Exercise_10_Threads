@@ -1,0 +1,4 @@
+Number of lines is: 7
+Max row is:  4  contane:  42 symbols. 
+value row is:  I have been studying java for three years.
+Name is: Andrii
